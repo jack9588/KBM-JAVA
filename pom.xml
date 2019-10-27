@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com</groupId>
+    <artifactId>KBM-JAVA</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>java-base</module>
+        <module>java-jvm</module>
+        <module>java-web</module>
+        <module>java-mq</module>
+        <module>java-redis</module>
+        <module>java-zookeeper</module>
+        <module>java-tomcat</module>
+        <module>java-dubbo</module>
+        <module>java-springboot</module>
+        <module>java-microservice</module>
+        <module>java-distributed</module>
+        <module>java-multithreaded-concurrency</module>
+        <module>java-nginx</module>
+        <module>java-mysql</module>
+        <module>java-distributedtransaction</module>
+        <module>java-distributedlock</module>
+        <module>java-algorithms</module>
+        <module>java-data-structures</module>
+        <module>java-io-all</module>
+        <module>java-expand</module>
+    </modules>
+
+
+</project>
